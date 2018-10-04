@@ -1,7 +1,7 @@
 {
   "main.css": "/Go-For-Chat/static/css/main.f2b1f2e0.chunk.css",
-  "main.js": "/Go-For-Chat/static/js/main.37224604.chunk.js",
-  "main.js.map": "/Go-For-Chat/static/js/main.37224604.chunk.js.map",
+  "main.js": "/Go-For-Chat/static/js/main.aaa2cdea.chunk.js",
+  "main.js.map": "/Go-For-Chat/static/js/main.aaa2cdea.chunk.js.map",
   "static/js/1.c78b1f72.chunk.js": "/Go-For-Chat/static/js/1.c78b1f72.chunk.js",
   "static/js/1.c78b1f72.chunk.js.map": "/Go-For-Chat/static/js/1.c78b1f72.chunk.js.map",
   "runtime~main.js": "/Go-For-Chat/static/js/runtime~main.2550d918.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/Go-For-Chat/static/media/logo.5d5d9eef.svg",
   "static/css/main.f2b1f2e0.chunk.css.map": "/Go-For-Chat/static/css/main.f2b1f2e0.chunk.css.map",
   "index.html": "/Go-For-Chat/index.html",
-  "precache-manifest.731a3e510a0c17e8ff904c289a86c7b0.js": "/Go-For-Chat/precache-manifest.731a3e510a0c17e8ff904c289a86c7b0.js",
+  "precache-manifest.820febd49426ca3c5906f5dea1964141.js": "/Go-For-Chat/precache-manifest.820febd49426ca3c5906f5dea1964141.js",
   "service-worker.js": "/Go-For-Chat/service-worker.js"
 }
