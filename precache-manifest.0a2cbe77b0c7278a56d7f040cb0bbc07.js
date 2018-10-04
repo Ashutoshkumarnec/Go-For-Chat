@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Go-For-Chat/static/js/runtime~main.2550d918.js"
   },
   {
-    "revision": "ad046f34c2260643d432",
-    "url": "/Go-For-Chat/static/js/main.ad046f34.chunk.js"
+    "revision": "053e5dbf1392a26a864f",
+    "url": "/Go-For-Chat/static/js/main.053e5dbf.chunk.js"
   },
   {
     "revision": "908a1201f516c1ac3363",
     "url": "/Go-For-Chat/static/js/1.908a1201.chunk.js"
   },
   {
-    "revision": "ad046f34c2260643d432",
+    "revision": "053e5dbf1392a26a864f",
     "url": "/Go-For-Chat/static/css/main.d92ac18a.chunk.css"
   },
   {
-    "revision": "fc55a07a55a542d66a73b20b580c32f5",
+    "revision": "a4f851fa4cb75573a3f301f12db464db",
     "url": "/Go-For-Chat/index.html"
   }
 ];
